@@ -1,0 +1,22 @@
+h1 {
+  color: #39E317;
+  font-size: 4rem;
+}
+a {
+  color: #09F7C8;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+a:hover {
+  color: #C2F6EC;
+}
+p {
+  font-family: sans-serif;
+  color: #363737;
+  font-size: 1rem
+}
+li {
+  font-family: sans-serif;
+  color: #09342C;
+  font-size: 0.8rem;
+}
